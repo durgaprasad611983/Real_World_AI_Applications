@@ -1,0 +1,1 @@
+web: streamlit run Real_World_Applications/app.py
