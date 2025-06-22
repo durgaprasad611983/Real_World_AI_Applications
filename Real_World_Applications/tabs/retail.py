@@ -17,7 +17,7 @@ import os
 import requests
 from io import BytesIO
 from PIL import Image, ImageDraw
-import mediapipe as mp
+#import mediapipe as mp
 import cv2
 from streamlit_webrtc import webrtc_streamer, VideoTransformerBase
 import av
